@@ -14,12 +14,12 @@
         <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
       </a>
       <br />
-      <img width="205" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzzwpzlkptlwgjgulp5l4bxkoe&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+      <img width="205" height=250 src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzzwpzlkptlwgjgulp5l4bxkoe&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
     </div>
   </div>
 </div>
 
 <!-- Contador de Visitas centrado debajo de las columnas -->
 <div style="text-align: center; margin-top: 20px;">
-  <img width="205" height=300 src="https://komarev.com/ghpvc/?username=alx-mp&label=VISITAS%20AL%20PERFIL&locale=es&style=for-the-badge&color=00b440&background=222428" />
+  <img width="205" src="https://komarev.com/ghpvc/?username=alx-mp&label=VISITAS%20AL%20PERFIL&locale=es&style=for-the-badge&color=00b440&background=222428" />
 </div>
