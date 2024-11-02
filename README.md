@@ -11,7 +11,7 @@
 <div style="flex: 1; min-width: 300px; text-align: center;">
   <div>
     <!-- Banner de Tecnologías -->
-    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=TECNOLOGIAS&width=500&height=70" />
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=TECNOLOGIAS&width=450&height=70" />
     <!-- Iconos de Tecnologías Centrados -->
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
