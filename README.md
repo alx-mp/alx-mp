@@ -8,17 +8,14 @@
   </div>
 
 <!-- Segunda Columna -->
-<div style="flex: 1; min-width: 300px; text-align: center;">
-  <div>
-    <!-- Banner de Tecnologías -->
-    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=TECNOLOGIAS&width=450&height=70" />
-    <!-- Iconos de Tecnologías Centrados -->
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
-    </a>
-    <!-- Espacio entre elementos -->
-    <br />
-    <img width="300" src="duki.svg" />
+<div style="flex: 1; min-width: 300px;">
+    <div align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
+      </a>
+      <br />
+      <img width="205" src="duki.svg" />
+    </div>
   </div>
 </div>
 
