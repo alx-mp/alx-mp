@@ -10,6 +10,6 @@
   
   <img width="205" src="https://komarev.com/ghpvc/?username=alx-mp&label=VISITAS%20AL%20PERFIL&locale=es&style=for-the-badge&color=00b440&background=222428" />
 
-   <img width="205" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzzwpzlkptlwgjgulp5l4bxkoe&cover_image=true&theme=novatorem&show_offline=false&background_color=222428&interchange=false&bar_color=00b440&bar_color_cover=true" />
+   <img width="500" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzzwpzlkptlwgjgulp5l4bxkoe&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=fals" />
   
 </div>
