@@ -8,7 +8,7 @@
   </div>
 
 <!-- Segunda Columna -->
-<div align="center">
+<div align="left">
   <img src="https://svg-banners.vercel.app/api?type=luminance&text1=TECNOLOGIAS&width=500&height=70" />
   
   <a href="https://skillicons.dev">
