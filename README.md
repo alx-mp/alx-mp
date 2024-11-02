@@ -4,5 +4,5 @@
 <img height=202 align="center" src="https://my-stats-43gk.vercel.app/api?username=alx-mp&show_icons=true&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=495&line_height=28&text_color=dcdada&bg_color=222428&icon_color=00dc4d&title_color=00dc4d&border_color=222428&locale=es&ring_color=00dc4d&border_radius=4.5" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alx-mp&label=VISITAS%20AL%20PERFIL&locale=es&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=alx-mp&label=VISITAS%20AL%20PERFIL&locale=es&style=for-the-badge&color=00dc4d&background=222428" />
 </p>
