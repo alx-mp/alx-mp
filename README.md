@@ -11,7 +11,7 @@
 <div style="flex: 1; min-width: 300px;">
     <div align="left">
       <img src="https://svg-banners.vercel.app/api?type=luminance&text1=TECNOLOGIAS&width=500&height=70" />
-      <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="padding-left: 50px">
       <a  href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
       </a>
