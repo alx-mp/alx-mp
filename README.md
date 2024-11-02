@@ -7,21 +7,19 @@
     </a>
   </div>
 
-  <!-- Segunda Columna -->
+<!-- Segunda Columna -->
 <div style="flex: 1; min-width: 300px;">
-    <div align="left">
-      <img src="https://svg-banners.vercel.app/api?type=luminance&text1=TECNOLOGIAS&width=500&height=70" />
-      <div style="padding-left: 50px">
-      <a  href="https://skillicons.dev">
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 20px;">
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=TECNOLOGIAS&width=500&height=70" />
+    <div style="text-align: center; margin-top: 15px;">
+      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
       </a>
       <br />
-      <img width="300" src="duki.svg" />
-      </div>
+      <img width="300" src="duki.svg" style="margin-top: 15px;" />
     </div>
   </div>
 </div>
-
 
 
 <!-- Contador de Visitas centrado debajo de las columnas -->
