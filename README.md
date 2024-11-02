@@ -14,7 +14,7 @@
         <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
       </a>
       <br />
-      <img width="205" src="duki.svg" />
+      <img width="205" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzzwpzlkptlwgjgulp5l4bxkoe&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
     </div>
   </div>
 </div>
