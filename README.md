@@ -8,15 +8,20 @@
   </div>
 
 <!-- Segunda Columna -->
-<div align="left">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=TECNOLOGIAS&width=500&height=70" />
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
-  </a>
-  
-  <img width="300" src="duki.svg" />
+<div style="flex: 1; min-width: 300px; text-align: center;">
+  <div>
+    <!-- Banner de Tecnologías -->
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=TECNOLOGIAS&width=500&height=70" />
+    <!-- Iconos de Tecnologías Centrados -->
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
+    </a>
+    <!-- Espacio entre elementos -->
+    <br />
+    <img width="300" src="duki.svg" />
+  </div>
 </div>
+
 
 <!-- Contador de Visitas centrado debajo de las columnas -->
 <div style="text-align: center; margin-top: 20px;">
