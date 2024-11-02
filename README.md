@@ -6,9 +6,7 @@
 </a>
 
 <img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=radical"/>
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=blocage&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
-
-
+<img align="left" height=97 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app?user=alx-mp&theme=soft-green&hide_border=true&border_radius=5.3&locale=es&date_format=M%20j%5B%2C%20Y%5D"/>
 
 <a href=#><img src="contributions.svg"></a>
 
