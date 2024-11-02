@@ -21,5 +21,5 @@
 
 <!-- Contador de Visitas centrado debajo de las columnas -->
 <div style="text-align: center; margin-top: 20px;">
-  <img width="205" src="https://komarev.com/ghpvc/?username=alx-mp&label=VISITAS%20AL%20PERFIL&locale=es&style=for-the-badge&color=00b440&background=222428" />
+  <img width="205" height=300 src="https://komarev.com/ghpvc/?username=alx-mp&label=VISITAS%20AL%20PERFIL&locale=es&style=for-the-badge&color=00b440&background=222428" />
 </div>
