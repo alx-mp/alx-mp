@@ -3,7 +3,7 @@
 </a>
 
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=alx-mp&hide=html,scss,css&langs_count=8&layout=compact&theme=soft-green&card_width=150" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=alx-mp&hide=html,scss,css&langs_count=8&layout=compact&theme=dark&card_width=150" />
 </a>
 
 <img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app?user=alx-mp&theme=soft-green&hide_border=true&border_radius=5.3&locale=es&date_format=M%20j%5B%2C%20Y%5D"/>
