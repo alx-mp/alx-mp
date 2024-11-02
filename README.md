@@ -10,7 +10,7 @@
   <!-- Segunda Columna -->
   <div style="flex: 1; min-width: 300px;">
     <div align="left">
-      <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Luminance%20🌻&width=800&height=400" />
+      <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Tecnólogias&width=300&height=150" />
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
       </a>
