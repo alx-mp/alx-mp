@@ -8,16 +8,16 @@
   </div>
 
   <!-- Segunda Columna -->
-  <div style="flex: 1; min-width: 300px;">
-  <div style="text-align: center;"> <!-- Cambié align="left" a style="text-align: center;" -->
+<div style="flex: 1; min-width: 300px;">
+  <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=TECNOLOGIAS&width=500&height=70" />
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
+      <img style="margin: 10px 0;" src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
     </a>
-    <br />
     <img width="300" src="duki.svg" />
   </div>
 </div>
+
 
 
 <!-- Contador de Visitas centrado debajo de las columnas -->
