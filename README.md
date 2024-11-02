@@ -11,7 +11,7 @@
   <div style="flex: 1; min-width: 300px;">
     <div align="left">
       <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Tecnólogias&width=500&height=70" />
-      <a href="https://skillicons.dev">
+      <a aling="center" href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
       </a>
       <br />
