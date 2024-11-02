@@ -10,11 +10,12 @@
 <!-- Segunda Columna -->
 <div style="flex: 1; min-width: 300px;">
     <div align="left">
+        <img src="https://svg-banners.vercel.app/api?type=luminance&text1=TECNOLOGIAS&width=450&height=70" />
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
       </a>
       <br />
-      <img width="205" src="duki.svg" />
+      <img width="250" src="duki.svg" />
     </div>
   </div>
 </div>
