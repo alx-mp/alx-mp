@@ -12,7 +12,7 @@
     <div align="left">
         <img src="https://svg-banners.vercel.app/api?type=luminance&text1=TECNOLOGIAS&width=320&height=58" />
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs" />
+        <img src="https://skillicons.dev/icons?i=angular,nestjs" />
       </a>
       <br />
       <img width="320" src="duki.svg" />
