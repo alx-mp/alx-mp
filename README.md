@@ -15,7 +15,7 @@
         <img src="https://skillicons.dev/icons?i=angular,nestjs" />
       </a>
       <br />
-      <img width="320" src="duki.svg" />
+      <!-- <img width="320" src="duki.svg" /> -->
     </div>
   </div>
 </div>
